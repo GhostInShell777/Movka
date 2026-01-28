@@ -1,0 +1,1 @@
+Автор дурак. Екзе-файл тут: "Movka\bin\Debug\net8.0-windows\Movka.exe"
